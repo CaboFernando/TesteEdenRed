@@ -1,4 +1,4 @@
-- Contem dois testes de lógica de programação.
+## Contem dois testes de lógica de programação.
 
 1 - Print números de 1 até 100.
    - Caso o número seja múltiplo de 3 print "Buzz" ao invés do número
